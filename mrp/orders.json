@@ -1,0 +1,23 @@
+{
+    "Orders": [
+      {
+        "Number": "1",
+        "Orderdate": "2012-04-21T18:25:43-05:00",
+        "DueDate": "2012-04-21T18:25:43-05:00",
+        "Itemcode": "ITEM",
+        "WorkcenterCode": "PPK01",
+        "Quantity" : 122
+      },
+
+      {
+        "Number": "2",
+        "Orderdate": "2012-04-21T18:25:43-05:00",
+        "DueDate": "2012-04-21T18:25:43-05:00",
+        "Itemcode": "ITEM2",
+        "WorkcenterCode": "PPK01",
+        "Quantity" : 134
+      }
+    ]
+}
+
+
