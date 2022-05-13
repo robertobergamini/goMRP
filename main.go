@@ -65,7 +65,7 @@ func main() {
 	// readDataFromDB()
 	_timechangecolors = readTimeSequenceColors()
 
-	// _timechangeformati = readTimeSequenceFormati()
+	_timechangeformati = readTimeSequenceFormati()
 
 	fmt.Println("Start date and time is: ", time.Now().String())
 	heapPermutation(coloursToOptimize, len(coloursToOptimize), len(coloursToOptimize))
