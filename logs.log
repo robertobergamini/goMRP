@@ -136,3 +136,5 @@ INFO: 2022/05/11 16:39:26 main.go:56: log 1
 INFO: 2022/05/11 16:39:26 main.go:57: log fatal
 INFO: 2022/05/11 16:55:52 main.go:56: log 1
 INFO: 2022/05/11 16:55:52 main.go:57: log fatal
+INFO: 2022/05/11 17:00:07 main.go:56: log 1
+INFO: 2022/05/11 17:00:07 main.go:57: log fatal
